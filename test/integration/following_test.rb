@@ -52,5 +52,4 @@ class FollowingTest < ActionDispatch::IntegrationTest
       xhr :delete, relationship_path(relationship)
     end
   end
-  
 end
