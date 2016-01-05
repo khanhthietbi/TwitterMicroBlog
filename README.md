@@ -1,4 +1,4 @@
-This is application based on the Ruby on Rails Tutorial by Michael Hartl.
+RoR MicroBlog Apps.
 
 I made some fixes for mobile display. I removed all SMTP and upload file configuration because I don't wanna lose any private information. You can also deploy this project on Heroku (pre-configuration included).
 
